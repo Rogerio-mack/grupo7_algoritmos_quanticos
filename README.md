@@ -10,5 +10,5 @@
 - Thiago Soares Assimos
 - Roberto Machado Velho
 
-### [TAREFA UA1-UA2](https://colab.research.google.com/github/Rogerio-mack/grupo7_algoritmos_quanticos/blob/main/Atividade_UA1_UA2_QA_Grover_v3.ipynb)
-### [TAREFA UA3-UA4](https://colab.research.google.com/github/Rogerio-mack/grupo7_algoritmos_quanticos/blob/main/Atividade_UA3_UA4_QAOA_v6.ipynb) 
+### Link $\longrightarrow$ [TAREFA UA1-UA2](https://colab.research.google.com/github/Rogerio-mack/grupo7_algoritmos_quanticos/blob/main/Atividade_UA1_UA2_QA_Grover_v3.ipynb)
+### Link $\longrightarrow$ [TAREFA UA3-UA4](https://colab.research.google.com/github/Rogerio-mack/grupo7_algoritmos_quanticos/blob/main/Atividade_UA3_UA4_QAOA_v6.ipynb) 
